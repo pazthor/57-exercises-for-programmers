@@ -1,0 +1,7 @@
+
+
+##MacOSX
+.DS_Store
+
+##unsave Emacs
+*.*~
